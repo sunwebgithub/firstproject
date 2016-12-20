@@ -1,3 +1,3 @@
 <?php
 
-echo 'diwaker has not gdasvhgh'
+echo 'diwaker has not gdasvhgh';
